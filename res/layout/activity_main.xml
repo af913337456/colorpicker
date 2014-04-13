@@ -12,7 +12,6 @@
         android:id="@+id/cpv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:src="@drawable/color_range" />
+        android:layout_centerInParent="true" />
 
 </RelativeLayout>
